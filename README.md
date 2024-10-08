@@ -3,13 +3,14 @@
 Full Stack Web Developer with knowledge of traditional and digital art, and UX/UI design. I am dedicated to creating engaging digital experiences that leave a lasting impact on users and clients alike.
 
 ### Competences :desktop_computer:
-React
-Javascript (ES6)
-NodeJS, MongoDB
-Mongoose
-Express
-HTML
-CSS
+- React
+- Javascript (ES6)
+- NodeJS
+- MongoDB
+- Mongoose
+- Express
+- HTML
+- CSS
 
 ### Soft skills 🤔
 - With my Creative and Critical Thinking I'm able to view challenges in different angles in order to find Efficient solutions that also benefit projects as a whole.
