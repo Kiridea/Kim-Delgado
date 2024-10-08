@@ -1,4 +1,4 @@
-# Kim Delgado :paintbrush:
+# About me :paintbrush:
 
 Full Stack Web Developer with knowledge of traditional and digital art, and UX/UI design. I am dedicated to creating engaging digital experiences that leave a lasting impact on users and clients alike.
 
